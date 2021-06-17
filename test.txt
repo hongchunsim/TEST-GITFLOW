@@ -16,4 +16,4 @@
 
 맨처음 깃 레포를 포크 뜬 후 클론 받기
 
-2. branch2 - jimin
+2. branch2 - jimin !!

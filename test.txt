@@ -13,3 +13,6 @@
 4. Git commit -m"feat:변경사항 저장"
 5. Git push 브런치 이름
 5. Git push 브런치 이름
+
+맨처음 깃 레포를 포크 뜬 후 클론 받기
+

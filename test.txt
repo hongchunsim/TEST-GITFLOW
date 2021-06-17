@@ -1,1 +1,10 @@
 1.branch -sudal
+2.fork branch -sudal
+
+1. Git remote -v
+2. git remote add upstream https://github.com/N-BREAD/TEST-GITFLOW.git
+1. Git remote -v
+변경사항 생성 
+3. Git add .
+4. Git commit -m"feat:변경사항 저장"
+5. Git push 브런치 이름
